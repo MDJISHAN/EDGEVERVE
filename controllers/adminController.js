@@ -50,7 +50,7 @@ module.exports = {
                 });
             }*/
 
-
+            console.log("jishan",file);
 
 
         const newPost = new Post({
